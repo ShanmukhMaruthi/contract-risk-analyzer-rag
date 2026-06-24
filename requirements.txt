@@ -1,9 +1,11 @@
 streamlit
-langchain
-langchain-community
-langchain-huggingface
-chromadb
-sentence-transformers
 groq
 python-dotenv
+chromadb
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+sentence-transformers
+torch
 pypdf
